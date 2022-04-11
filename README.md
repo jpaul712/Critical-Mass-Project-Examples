@@ -10,4 +10,10 @@ Work / Project Examples
 
 Inspiration
 
-1.
+1. https://codesandbox.io/embed/r3f-game-i2160
+   I found this game on sandbox when a friend showed it to me and it's one game that I've always thought about when the subject of game development comes along because the game looks and feels very professional and something that I'd expect to be on steam for people to buy. The thing that I find in spiring about this is the special effects of the game since the most I've ever done are slow transitions when clicking on a button of a form. Making something that has smooth transitions has always been something I've been intruged in. Seeing that it can all be done with javascript is also interesting since most games are developed on some type of engine.
+   
+2. https://www.apple.com/ca/iphone-13-pro/
+   Apples design on their webpages has always interested me and left me thinking how I can do this. Their scrolling animations has always been one of the best and I have    yet to see something better. I have made a couple websites for my classes and if I were given more time to focus on the visual I would try and make it similar to        apples scrolling animations.
+  
+3. 
