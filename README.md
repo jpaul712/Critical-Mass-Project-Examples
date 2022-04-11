@@ -16,4 +16,5 @@ Inspiration
 2. https://www.apple.com/ca/iphone-13-pro/
    Apples design on their webpages has always interested me and left me thinking how I can do this. Their scrolling animations has always been one of the best and I have    yet to see something better. I have made a couple websites for my classes and if I were given more time to focus on the visual I would try and make it similar to        apples scrolling animations.
   
-3. 
+3. https://www.criticalmass.com/work/detail/bmw-insight-app
+   The BMW Insight App from Critical Mass has been in the back of my head ever since I found out about it. I realize that there are many AR apps out there but the tidiness and overall look of the app was very impressive. The major aspect that I found insipring from this is when the user goes closer to the car the skeleton of the car through the app also get larger and you can inspect it in more detail. This might have been a simplier task to do compared to creating the visuals in the app but because of my interest in cars since I was little; it has inspired me to one day make an app related to cars in one way or another.
