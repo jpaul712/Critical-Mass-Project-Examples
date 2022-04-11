@@ -18,3 +18,8 @@ Inspiration
   
 3. https://www.criticalmass.com/work/detail/bmw-insight-app
    The BMW Insight App from Critical Mass has been in the back of my head ever since I found out about it. I realize that there are many AR apps out there but the tidiness and overall look of the app was very impressive. The major aspect that I found insipring from this is when the user goes closer to the car the skeleton of the car through the app also get larger and you can inspect it in more detail. This might have been a simplier task to do compared to creating the visuals in the app but because of my interest in cars since I was little; it has inspired me to one day make an app related to cars in one way or another.
+
+
+Focus
+
+    Given the time and resources I would spend my time learning how I can improve my visual design skills and how I can improve to simplify my code. The projects that Critical Mass has worked have always had a tidy and visually appealing user interfaces. I realize that this would take practice to achieve this but I'd hope to make a project with a similar visual presence as the projects Critical Mass has worked on since that is something I admire greatly. The way I'd spend my time achieving this would be to put as much effort as I can into the visuals of a project and get feedback on it. I would then ask for advice on how my fellow employees or supervisor would approach this task to understand their thinking process and get ideas from them that I can use for my next project/assignment.
