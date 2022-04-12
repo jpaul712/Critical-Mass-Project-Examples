@@ -23,3 +23,6 @@ Inspiration
 Focus
 
 1.    Given the time and resources I would spend my time learning how I can improve my visual design skills and how I can improve to simplify my code. The projects that Critical Mass has worked have always had a tidy and visually appealing user interfaces. I realize that this would take practice to achieve this but I'd hope to make a project with a similar visual presence as the projects Critical Mass has worked on since that is something I admire greatly. The way I'd spend my time achieving this would be to put as much effort as I can into the visuals of a project and get feedback on it. I would then ask for advice on how my fellow employees or supervisor would approach this task to understand their thinking process and get ideas from them that I can use for my next project/assignment.
+
+Code Challenge
+https://codesandbox.io/s/2022-internship-exercise-menu-forked-sxcky2?file=/src/index.js&resolutionWidth=1400&resolutionHeight=800
